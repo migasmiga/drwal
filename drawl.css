@@ -1,0 +1,51 @@
+body{
+    color: #ffd000;
+    background-color: #2a6334;
+}
+/* #ffd000 */
+p{
+    font-family: 'Christmas   Classica', sans-serif;
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;                                 
+}
+
+
+#demo{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 8px;
+    font-family: "Modak", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: -3%;
+}
+.countdown{
+    margin-top: 0%;
+}
+.christmastext{
+    text-align: center;
+}
+@media screen and (max-width:800px) {
+    #demo{
+        font-size: 70px;
+    }
+    #demome{
+        font-size: 25px;
+    }
+    .countdown{
+        margin-top: 10%;
+    }
+    img{
+        margin-left: 20%;
+    }
+}
+
+
+
+img{
+    width: 200px;
+    height: 100px;
+    margin-left: 42%;
+
+}
