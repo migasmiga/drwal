@@ -51,6 +51,8 @@ img{
 }
 @media screen and (max-width:800px) {
     img{
-        margin-left: 20%;
+        margin-left: 25%;
+        width: 150px;
+        height: 75px;
     }
 }
